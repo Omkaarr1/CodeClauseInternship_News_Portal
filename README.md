@@ -13,7 +13,7 @@ Welcome to our News Portal website! This project aims to provide users with up-t
 
 ## Website Preview
 
-![News Portal Website Preview](https://omkaarr1.github.io/CodeClauseInternship_News_Portal/)
+[News Portal Website Preview](https://omkaarr1.github.io/CodeClauseInternship_News_Portal/)
 
 ## Getting Started
 
